@@ -1,0 +1,24 @@
+# Ignore everything in this folder by default (keeps private files out of the repo)
+/*
+
+# --- Publish ONLY the portfolio website files below ---
+!.gitignore
+!index.html
+!silkbg.jpg
+!SujinJungPhoto.jpg
+!portfoliovideo_web.mp4
+
+# Company / school logos
+!microsoft_logo.png
+!npixel_logo.png
+!codebrick_logo.png
+!mercedes_logo.png
+!newell_logo.png
+!tufts_logo.png
+!georgia_tech_logo.png
+
+# Creative section images
+!todayhouse4.png
+!todayhouse2.png.jpg
+!todayhouse3.png
+!homestyle2.png
